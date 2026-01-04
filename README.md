@@ -6,7 +6,7 @@ A simple Java console program that calculates and displays a parking fine based 
 ## Requirements
 - Java JDK 11 or later
 
-## How to Run
+### How to Run
 ## Windows and linux
 cd src
 javac ParkingTicket.java
